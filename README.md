@@ -1,15 +1,16 @@
-# Advanced Terminal BMI Calculator
+# Advanced Terminal Random Password Generator
 
-A terminal-based Python application to calculate BMI, track user history, and visualize BMI trends with ASCII graphs.
+A terminal-based Python project to generate secure, random, and customizable passwords. This project demonstrates practical Python programming, randomization, input validation, and cybersecurity best practices.
 
 ## Features
-- Supports height input in centimeters
-- Calculates BMI and categorizes it (Underweight, Normal, Overweight, Obese)
-- Saves user history in JSON format
-- Displays ASCII trend graphs for past BMI records
-- Input validation and error handling included
+- ✨ **Customizable Passwords:** Users can choose length and character types (letters, numbers, symbols)
+- 🔄 **Multiple Password Generation:** Generate several passwords in a single session
+- 📋 **Clipboard Support:** Copy generated passwords directly to clipboard
+- ⚠️ **Input Validation:** Ensures secure and valid password parameters
+- 💻 **Terminal-Friendly:** Lightweight and easy to use, no GUI required
+- 🎓 **Educational Project:** Demonstrates Python string manipulation and security concepts
 
 ## Installation
+1. Clone the repository:
 ```bash
 git clone <your_repo_URL>
-cd Advanced-Python-Projects/BMI_Calculator
